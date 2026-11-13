@@ -1,12 +1,12 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Download manager that fetches every file in parallel parts and resumes after anything",
   "homepage": "https://manyeya.github.io/shard/",
   "license": "MIT OR Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/manyeya/shard/releases/download/v0.1.0/Shard-0.1.0-windows-x64.zip",
-      "hash": "b0e369499e0f6c01df2234f7e3ed97f1f79ae45dca7642c5fb6181a2b675e6b7"
+      "url": "https://github.com/manyeya/shard/releases/download/v0.2.0/Shard-0.2.0-windows-x64.zip",
+      "hash": "001f886a9401707fa47e07a64ed3686133c9429079487444fc6410aaa2c25684"
     }
   },
   "bin": [["Shard.exe", "shard"]],
